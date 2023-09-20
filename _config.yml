@@ -6,7 +6,7 @@ description: > python / Machine-Learning / Deep-Learning
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
 
-baseurl:  # the subpath of the site
+#baseurl:  # the subpath of the site
 url: https://github.com/Han-Daon/Han-Daon.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
