@@ -35,15 +35,18 @@ exclude:
 
 defaults:
   - scope:
-      path: "_posts"
+      path: "_post"
       type: posts
     values:
-      layout: post
-      comment: true   
+      layout: single
+      author_profile: false
+      share: true
+      related: true
 
 collections:
   additional_pages:
-    output: true
+  permalink: /:collection/:path/
+  output: true
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown 
