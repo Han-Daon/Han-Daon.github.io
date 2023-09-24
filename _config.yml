@@ -25,7 +25,7 @@ user:
   pic: /assets/img/profile.jpg
   picAlt: "Portfolio On"
   job: Jeonbuk National University student
-  # aboutme: true # comment this out if you don't need the 'about' page.
+  aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
