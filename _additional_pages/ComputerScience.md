@@ -1,7 +1,7 @@
 ---
 title: ComputerScience
 layout: simple
-order: 4
+order: 6
 ---
 
 > 
