@@ -1,5 +1,5 @@
 ---
-title: 머신러닝
+title: 컴퓨터 사이언스
 layout: simple
 order: 4
 ---
