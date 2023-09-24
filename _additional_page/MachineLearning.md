@@ -1,5 +1,5 @@
 ---
-title: 공모전
+title: 머신러닝
 layout: simple
 order: 4
 ---
