@@ -2,6 +2,7 @@
 ---
 title: Python Coding
 layout: simple
+order: 2
 permalink: /_post/
 ---
 
