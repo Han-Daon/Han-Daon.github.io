@@ -1,8 +1,8 @@
 
 ---
-title: Python Coding
-layout: simple
-order: 2
+title: Python Coding  
+layout: simple  
+order: 2  
 ---
 
 
