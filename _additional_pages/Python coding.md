@@ -1,8 +1,12 @@
+
 ---
-title: Python coding
-layout: simple
-order: 2
-permalink: /_post/2023-09-21 Python_coding_Lv0-1
+title: PythonCoding
+layout: collection
+permalink: /_post/
+collection: posts
+entries_layout: grid
+classes: wide
+
 ---
 
 ### Programeres Python coding test LV.0
