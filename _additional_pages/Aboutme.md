@@ -5,8 +5,8 @@ order: 1
 ---
 
 
->##JBNU Student
+JBNU Student  
 >
->1st Major : Biology
+>1st Major : Biology  
 >
 >2nd Major : Computer Engeenering
