@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Algrithm by C
 layout: simple
-order: 
+order: 5
 ---
