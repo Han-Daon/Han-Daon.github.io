@@ -52,3 +52,5 @@ show_drafts: null
 limit_posts: 0
 future:      false
 unpublished: false
+
+category_list: [ nodejs, javascript, tip, diary, linux, chatbot, php ,publishing, jekyll, sql, error ]
