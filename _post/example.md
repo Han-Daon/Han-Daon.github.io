@@ -1,10 +1,12 @@
 
 ---
 title: PythonCoding  
-layout: categories  
+layout: simple
 permalink: /_post/  
 collection: post 
 entries_layout: grid  
 classes: wide  
 
 ---
+
+
