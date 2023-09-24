@@ -1,9 +1,9 @@
 
 ---
 title: PythonCoding  
-layout: collection  
-permalink: /trip/  
-collection: trip  
+layout: categories  
+permalink: /_post/  
+collection: post 
 entries_layout: grid  
 classes: wide  
 
