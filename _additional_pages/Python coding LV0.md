@@ -2,6 +2,7 @@
 title: Python coding
 layout: simple
 order: 2
+permalink: /_post/2023-09-21 Python_coding_Lv0-1
 ---
 
 ### Programeres Python coding test LV.0
