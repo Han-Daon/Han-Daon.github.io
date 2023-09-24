@@ -4,8 +4,6 @@ title: PythonCoding
 layout: collection
 permalink: /_post/
 collection: posts
-entries_layout: grid
-classes: wide
 
 ---
 
