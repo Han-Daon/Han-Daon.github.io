@@ -1,10 +1,9 @@
 
 ---
 title: PythonCoding
-layout: collection
+layout: simple
 permalink: /_post/
 collection: posts
-
 ---
 
 ### Programeres Python coding test LV.0
