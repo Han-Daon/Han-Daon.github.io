@@ -1,6 +1,6 @@
 
 ---
-title: PythonCoding
+title: Python Coding
 layout: simple
 permalink: /_post/
 ---
