@@ -3,7 +3,6 @@
 title: Python Coding
 layout: simple
 order: 2
-permalink: /_post/
 ---
 
 ### Programeres Python coding test LV.0
