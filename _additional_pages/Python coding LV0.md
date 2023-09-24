@@ -6,7 +6,7 @@ permalink: /_post/2023-09-21 Python_coding_Lv0-1
 ---
 
 ### Programeres Python coding test LV.0
-- [2023-09-20](https://github.com/Han-Daon/Data_Analytics.git)
+- [2023-09-20](데이터 시각화.py)
 - [2023-09-21](/literature/stories/Franz_Kafka/饥饿艺术家)
 
   
