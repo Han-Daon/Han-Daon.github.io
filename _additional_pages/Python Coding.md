@@ -1,4 +1,3 @@
-
 ---
 title: Python Coding  
 layout: simple  
