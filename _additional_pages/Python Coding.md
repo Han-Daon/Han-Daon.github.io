@@ -9,7 +9,7 @@ order: 5
 - [2023-09-25~30](https://github.com/Han-Daon/Python-Coding/tree/1f264574967a203fa8803900ba14eeb0e310e391/9%EC%9B%94%204%EB%B2%88%EC%A7%B8%20%EC%A3%BC/2023-09-25)
 - [2023-09-26] 
 - [2023-09-26]
-- [2023-10-10~13](https://github.com/Han-Daon/Python-Coding/tree/e7419680d775e01e7703507c01df8bfe0e0c6bea/10%EC%9B%94%202%EC%A3%BC%EC%B0%A8)
+- [2023-10-10~13](https://github.com/Han-Daon/Python-Coding/tree/334404dd18b4cb6dabb5969c3cb18c8b27c50764/10%EC%9B%94%202%EC%A3%BC%EC%B0%A8)
   
 
 
