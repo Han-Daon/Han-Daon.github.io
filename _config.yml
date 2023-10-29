@@ -1,10 +1,10 @@
 ---
 title: Portfolio-On #Your awesome title
 email: luminant46@gmail.com
-description: > python / Machine-Learning / Deep-Learning 
-Write an awesome description for your new site here. You can edit this
-line in _config.yml. It will appear in your document head meta (for
-Google search results) and in your feed.xml site description.
+#description: > python / Machine-Learning / Deep-Learning 
+#Write an awesome description for your new site here. You can edit this
+#line in _config.yml. It will appear in your document head meta (for
+#Google search results) and in your feed.xml site description.
 
 baseurl:  # the subpath of the site
 url: https://github.com/Han-Daon/Han-Daon.github.io # the base hostname & protocol for your site
@@ -14,10 +14,10 @@ timezone: GMT+1
 
 favicon: /assets/img/favicon.ico
 
-google_analytics: #UA—XXXXXXXX-X
-disqus_shortname: #disqus shortname
-cusdis:
-    app_id: #your cusdis app_id
+#google_analytics: #UA—XXXXXXXX-X
+#disqus_shortname: #disqus shortname
+#cusdis:
+#    app_id: #your cusdis app_id
 
 user:
   name: Daon
