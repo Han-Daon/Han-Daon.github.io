@@ -1,45 +1,29 @@
 <!-- each category page -->
-{% if page.type %}
 <div class="archive">
-  <p class="archive_type">{{ page.type }}</p>
+  <p class="archive_type">
+  </p>
   <ul>
     <li>
         <time class="archive_date" datetime="">
         <div class='archive_title'>
           <a href="/Aboutme">About Me</a>
-            {{ a | escape }}
           </a>
         </div>
       </li>
-    {% endif %}
-    {% endfor %}
 
   </ul>
 </div>
 
 <!-- main page -->
-{% else %}
 <div class="archive">
-  {% for post in site.posts %}
-  {% unless post.next %}
-  <p class="archive_year">{{ post.date | date: '%Y' }}</p>
-  {% else %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% capture nextyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-  {% if year != nextyear %}
-  <p class="archive_year">{{ post.date | date: '%Y' }}</p>
-  {% endif %}
-  {% endunless %}
-
-  <ul>
-    <li>
-      <time class="archive_date" datetime="">
-        <div class='archive_title'>
-          <a href="/Aboutme">About Me</a>
-        </a>
-      </div>
-    </li>
-  </ul>
-  {% endfor %}
+  <div>
+    <p class="post_title">About Me</p>    
+  </div>
+  
+<div class="archive">
+  <h2 id="contents">Contents</h2>
+  <h2 id="introduction-and-contact">Introduction and Contact</h2>
+  <p>
+    "Hello"
+  </p>  
 </div>
-{% endif %}
