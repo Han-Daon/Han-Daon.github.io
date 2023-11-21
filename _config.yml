@@ -25,7 +25,7 @@ user:
   picAlt: "Portfolio On"
   job: Jeonbuk National University student
   email: luminant46@gmail.com
-  aboutme: true 
+  # aboutme: true 
   # comment this out if you don't need the 'about' page.
 
 exclude:
