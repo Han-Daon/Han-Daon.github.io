@@ -16,8 +16,5 @@ order: 5
 ### Backjoon Python coding test
 - [CLICK!](https://github.com/Han-Daon/Programmers-PythonCoding/tree/92482709d425a39961d420adfdaa0da381e668d7/%EB%B0%B1%EC%A4%80)
 
-### Python Function
-- [CLICK!](https://github.com/Han-Daon/Python-Coding/blob/6aaeefdb99d107bcac6631e6a2482f73471f657d/introducing_python.md)
-
-### Data Structure By Python
-- [CLICK!](https://github.com/Han-Daon/Python-Coding/tree/8d1405b315701d3b5ae32ea02d8f1cdcbe80cdd6/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
+### 이것이 진짜 코딩테스트이다
+- [CLICK!](https://github.com/Han-Daon/Python-Coding/tree/bcc522394a9d3983fa6da90f656f820274bd77b8/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EC%BD%94%ED%85%8C)
